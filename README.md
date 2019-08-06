@@ -1,2 +1,3 @@
-# flask_setup
-My preferred flask setup for new projects
+# Flask-Setup
+
+My preferred based flask setup for starting new projects.
